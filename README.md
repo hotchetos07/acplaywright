@@ -1,6 +1,5 @@
 # acplaywright
 
-````markdown
 # Adventurer's Codex Automation Testing
 
 ### Welcome to Adventurer’s Codex Automation
@@ -34,6 +33,7 @@ Clone this repository to your local machine:
 git clone https://github.com/hotchetos07/acplaywright.git
 cd acplaywright
 ```
+
 ````
 
 ### 3. Install Dependencies
@@ -90,3 +90,4 @@ If you have questions or need assistance, feel free to reach out via myspace or 
 ## How to Contribute
 
 Feel free to modify any parts according to your specific project details, such as the repository link, contributing guidelines, and issue tracking.
+````
