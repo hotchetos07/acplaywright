@@ -88,7 +88,3 @@ If you have questions or need assistance, feel free to reach out via myspace or 
 ## How to Contribute
 
 Feel free to modify any parts according to your specific project details, such as the repository link, contributing guidelines, and issue tracking.
-
-```
-
-```
