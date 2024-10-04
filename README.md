@@ -52,6 +52,9 @@ npx playwright test
 
 This command will execute all tests written in the `tests` directory and provide you with a summary of the results in the console.
 
+If you are using visual studio code you can install the Playwright Test for VSCode plugin that will make it easy to both develop and run tests.
+More information [here](https://marketplace.visualstudio.com/items?itemName=ms-playwright.playwright)
+
 ### 5. Running Tests in a Specific Browser
 
 By default, Playwright tests run in all available browsers. You can specify a single browser to run tests in:
